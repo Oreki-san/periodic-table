@@ -1,7 +1,7 @@
 # Animated Periodic Table
 
 <div align="center">
-<img src="https://dw.convertfiles.com/files/0735270001635621188/vid-20211030-wa1737.avi"
+<img src="https://drive.google.com/file/d/1NajaVaziXSSlyrIs-MTNs2FloPh-CPJz/view?usp=drivesdk"
 altr="periodic" border="0">
 
 # About
