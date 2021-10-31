@@ -7,6 +7,7 @@ altr="periodic" border="0">
 # About
 Small code to perform the periodic table in Chemistry, elements data in JSON
 also some compounds 
+Hosted on [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)(https://www.netlify.com)]
 
 # Note
 This project is made for specially *HACKATHON* event 
