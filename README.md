@@ -16,3 +16,10 @@ I hope if you like it
 
 ## Demo
 [Click here](https://oreki-san.netlify.app/)
+
+## Here some api for study material
+Api link
+
+https://www.periodni.com/solcalc-chemical_compounds.html
+
+https://m.chemicalbook.com/ProductCatalog_EN/14.htm
