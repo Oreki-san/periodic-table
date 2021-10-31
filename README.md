@@ -17,7 +17,7 @@ I hope if you like it
 ## Demo
 [Click here](https://oreki-san.netlify.app/)
 
-## Here some api links for study material
+## Here some api links for study material~
 
 - https://www.periodni.com/solcalc-chemical_compounds.html
 
