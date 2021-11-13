@@ -1,5 +1,5 @@
 # Animated Periodic Table
-
+[![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/periodic-table/badge)](https://www.codefactor.io/repository/github/oreki-san/periodic-table)
 <div align="center">
 <img src="https://telegra.ph/file/2bd6027c40574870ca848.jpg"
 altr="periodic" border="0">
